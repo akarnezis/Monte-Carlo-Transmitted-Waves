@@ -12,7 +12,7 @@
 
 4. Navigate to the downloaded code directory within Julia.
 
-5. Import the necessary packages provided by packages.jl.
+5. Load the necessary packages included in loaddata.jl.
 
 6. To load the data, modify the code's parameters using the provided flags:
 
