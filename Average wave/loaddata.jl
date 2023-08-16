@@ -78,6 +78,6 @@ end
 dict = MC_data
 
 x_pos = dict["x_positions"]
-average_wave = dict["avrg"]
+average_wave = dict["average_wave"]
 
 plot(x_pos, abs.(average_wave))
